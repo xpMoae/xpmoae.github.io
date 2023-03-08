@@ -37,9 +37,9 @@ navs:
     href: /wiki/
     label: 笔记
 
-   -
-     href: /links/
-     label: 友情链接
+  # -
+  #   href: /links/
+  #   label: Links
 
 # RSS
 subscribe_rss: /feed.xml
