@@ -9,8 +9,8 @@ encoding: "utf-8"
 side_bar_repo_limit: 5
 
 author: moae
-organization: UESTC
-organization_url: http://www.uestc.edu.cn
+organization: 湖南涉外经济学院
+organization_url: http://www.hieu.edu.cn/
 github_username: xpmoae
 location: Guangzhou, China
 email: 1124034062@qq.com
@@ -19,27 +19,27 @@ email: 1124034062@qq.com
 navs:
   -
     href: /
-    label: Homepage
+    label: 主页
 
   -
     href: /cv/
-    label: CV
+    label: 简历
 
   -
     href: /publications/
-    label: Publications
+    label: 文章
 
   -
     href: /categories/
-    label: Blogs
+    label: 博客
 
   -
     href: /wiki/
-    label: Wiki
+    label: 笔记
 
-  # -
-  #   href: /links/
-  #   label: Links
+   -
+     href: /links/
+     label: 友情链接
 
 # RSS
 subscribe_rss: /feed.xml
