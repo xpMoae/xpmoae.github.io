@@ -25,9 +25,9 @@ navs:
     href: /cv/
     label: 简历
 
-  -
-    href: /publications/
-    label: 文章
+ # -
+ #   href: /publications/
+ #   label: 文章
 
   -
     href: /categories/
